@@ -1,0 +1,15 @@
+.producto {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.producto h2 {
+    margin-top: 0;
+}
+
+.producto p {
+    margin: 5px 0;
+}
